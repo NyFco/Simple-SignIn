@@ -1,3 +1,3 @@
 # Simple-SignIn
 
-This is a simple 10 mins sign-in page which is not responsive <h2>YET!</h2>
+This is a simple 10 mins mobile-first sign-in page which is not responsive YET!
